@@ -1,0 +1,12 @@
+C:\Users\florent\Documents\visualstudio\Omegasphere 4.0\Omegasphere 4.0\obj\Debug\Omegasphere 4.0.vbprojAssemblyReference.cache
+C:\Users\florent\Documents\visualstudio\Omegasphere 4.0\Omegasphere 4.0\obj\Debug\Omegasphere 4.0.vbproj.GenerateResource.cache
+C:\Users\florent\Documents\visualstudio\Omegasphere 4.0\Omegasphere 4.0\obj\Debug\Omegasphere 4.0.vbproj.CoreCompileInputs.cache
+C:\Users\florent\Documents\visualstudio\Omegasphere 4.0\Omegasphere 4.0\obj\Debug\Omegasphere.Form1.resources
+C:\Users\florent\Documents\visualstudio\Omegasphere 4.0\Omegasphere 4.0\obj\Debug\Omegasphere.Resources.resources
+C:\Users\florent\Documents\visualstudio\Omegasphere 4.0\Omegasphere 4.0\bin\Debug\Omegasphere.exe.config
+C:\Users\florent\Documents\visualstudio\Omegasphere 4.0\Omegasphere 4.0\bin\Debug\Omegasphere.exe
+C:\Users\florent\Documents\visualstudio\Omegasphere 4.0\Omegasphere 4.0\bin\Debug\Omegasphere.pdb
+C:\Users\florent\Documents\visualstudio\Omegasphere 4.0\Omegasphere 4.0\bin\Debug\Omegasphere.xml
+C:\Users\florent\Documents\visualstudio\Omegasphere 4.0\Omegasphere 4.0\obj\Debug\Omegasphere.exe
+C:\Users\florent\Documents\visualstudio\Omegasphere 4.0\Omegasphere 4.0\obj\Debug\Omegasphere.xml
+C:\Users\florent\Documents\visualstudio\Omegasphere 4.0\Omegasphere 4.0\obj\Debug\Omegasphere.pdb
